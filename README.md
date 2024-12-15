@@ -9,6 +9,12 @@ This project is a simple To-Do List API that allows users to create, retrieve, u
 - **Task Schema**: Task includes a title, description, user, and status (default: "pending").
 - **User Schema**: Username , email , password.
 
+## Deployed Application
+
+You can test the API directly on the deployed server using Postman:
+
+- **API URL**: [https://bytive-task.onrender.com](https://bytive-task.onrender.com)
+
 ## Prerequisites
 Before running the project, make sure you have the following installed:
 - **Node.js**  - [Download here](https://nodejs.org/)
